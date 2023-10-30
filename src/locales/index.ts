@@ -1,5 +1,5 @@
-import { hrDictionary } from '@/locales/hr-HR'
-import { enDictionary } from '@/locales/en-EN'
+import { hrDictionary } from '../locales/hr-HR'
+import { enDictionary } from '../locales/en-EN'
 
 export type TranslationKeys = {
   email: string,
