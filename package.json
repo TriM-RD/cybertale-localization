@@ -1,6 +1,6 @@
 {
 	"name": "@geocms/localization",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Localization for Web Development, CyberTale edition.",
 	"author": "Joso Marich <jspmari@proton.me>",
 	"license": "GPL-3.0-only",
