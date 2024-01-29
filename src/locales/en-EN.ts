@@ -1,6 +1,12 @@
 import { TranslationKeys } from './index'
 
 export const enDictionary:TranslationKeys = {
+  unLink: 'Un-link',
+  link: 'Link',
+  template: 'Template',
+  division: 'Division',
+  value: 'Value',
+  permission: 'Permission',
   ascending: 'Ascending',
   descending: 'Descending',
   filterByCode: 'Filter by code',
@@ -35,7 +41,7 @@ export const enDictionary:TranslationKeys = {
   viewPDFs: 'View PDFs',
   delete: 'Delete',
   add: 'Add',
-  cancel: 'Cancel',
+  cancel: 'Cancel/Back',
   reSort: 'ReSort',
   save: 'Save',
   scan: 'Scan',
@@ -46,6 +52,7 @@ export const enDictionary:TranslationKeys = {
   permissions: 'Permissions',
   aboutUser: 'About user',
   email: 'Email',
+  userName: 'User Name',
   name: 'Name',
   report: 'Administration',
   administration: 'Administration',

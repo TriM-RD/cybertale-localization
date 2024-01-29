@@ -1,6 +1,12 @@
 import { TranslationKeys } from './index'
 
 export const hrDictionary:TranslationKeys = {
+  unLink: 'Odspojiti',
+  link: 'Spojiti',
+  template: 'Predložak',
+  division: 'Odjel',
+  value: 'Vrijednost',
+  permission: 'Dopuštenje',
   ascending: 'Uzlazno',
   descending: 'Silazno',
   filterByCode: 'Filtrirati po šifri',
@@ -35,7 +41,7 @@ export const hrDictionary:TranslationKeys = {
   viewPDFs: 'Pogledati PDF-ove',
   delete: 'Izbrisati',
   add: 'Dodati',
-  cancel: 'Otkazati',
+  cancel: 'Odustati/Povratak',
   reSort: 'Resortiraj',
   save: 'Spremiti',
   scan: 'Skenirati',
@@ -46,7 +52,8 @@ export const hrDictionary:TranslationKeys = {
   permissions: 'Dopuštenja',
   aboutUser: 'O korisniku',
   email: 'Email',
-  name: 'Ime Korisnika',
+  userName: 'Ime Korisnika',
+  name: 'Naziv',
   administration: 'Administracija',
   firmSelection: 'Odabir Firme',
   logOut: 'Odjava',
