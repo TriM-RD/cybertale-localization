@@ -1,4 +1,4 @@
-import { TranslationKeys } from '../locales/index'
+import { TranslationKeys } from './index'
 
 export const enDictionary:TranslationKeys = {
   ascending: 'Ascending',

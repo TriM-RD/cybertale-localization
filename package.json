@@ -1,5 +1,5 @@
 {
-	"name": "@cybertale/localization",
+	"name": "@geocms/localization",
 	"version": "0.1.0",
 	"description": "Localization for Web Development, CyberTale edition.",
 	"author": "Joso Marich <jspmari@proton.me>",
@@ -13,7 +13,7 @@
 	"main": "src/index.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/TriM-RD/cybertale-localization.git"
+		"url": "https://github.com/TriM-RD/geocms-localization.git"
 	},
 	"scripts": {
 		"build": "tsc"
