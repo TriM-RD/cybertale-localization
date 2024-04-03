@@ -2,6 +2,9 @@ import { hrDictionary } from './hr-HR'
 import { enDictionary } from './en-EN'
 
 export type TranslationKeys = {
+  stock: string,
+  storages: string,
+  items: string,
   unLink: string,
   link: string,
   template: string,

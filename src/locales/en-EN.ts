@@ -1,6 +1,9 @@
 import { TranslationKeys } from './index'
 
 export const enDictionary:TranslationKeys = {
+  stock: 'Stock',
+  storages: 'Storages',
+  items: 'Items',
   unLink: 'Un-link',
   link: 'Link',
   template: 'Template',

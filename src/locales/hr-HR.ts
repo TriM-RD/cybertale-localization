@@ -1,6 +1,9 @@
 import { TranslationKeys } from './index'
 
 export const hrDictionary:TranslationKeys = {
+  stock: 'Zaliha',
+  storages: 'Skladišta',
+  items: 'Artikli',
   unLink: 'Odspojiti',
   link: 'Spojiti',
   template: 'Predložak',
