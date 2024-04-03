@@ -2,6 +2,7 @@ import { hrDictionary } from './hr-HR'
 import { enDictionary } from './en-EN'
 
 export type TranslationKeys = {
+  task: string,
   stock: string,
   storages: string,
   items: string,
